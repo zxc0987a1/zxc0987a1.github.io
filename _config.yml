@@ -8,6 +8,8 @@ theme: null
 #   dist: false
 #   shortcodes: true
 
+url         : "https://zxc0987a1.github.io"
+
 readme_index:
   with_frontmatter: true
 
